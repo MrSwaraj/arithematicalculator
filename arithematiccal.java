@@ -19,16 +19,16 @@ class arithematiccal {
 		
 		return (a+b);
 	}
-static int sub(int a,int b) {
+	static int sub(int a,int b) {
 		
 		return (a-b);
 	}
-static int mul(int a,int b) {
+	static int mul(int a,int b) {
 	
 	return (a*b);
-}
-static double div(int a,int b) {
+	}
+	static double div(int a,int b) {
 	
 	return (a/b);
-}
+	}
 }
